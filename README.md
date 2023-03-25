@@ -3,7 +3,7 @@ I am now a first year Ph.D. student in [THUIR](http://ai.thuir.cn/), Department 
 My supervisors are Prof. [Shaoping Ma](http://www.thuir.cn/group/~msp/), Prof. [Yiqun Liu](http://www.thuir.cn/group/~YQLiu/) and Prof. [Qingyao Ai](https://ir.aiqingyao.org/home). My major research interests are about text retrieval/reranking, recommendation, knowledge enhanced pretrained language models for IR, etc.
 
 <!--
-**DQ0408/DQ0408** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Deriq-Qian-Dong/Deriq-Qian-Dong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/DQ0408">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=DQ0408&show_icons=true&include_all_commits=true" />
+<a href="https://github.com/Deriq-Qian-Dong">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Deriq-Qian-Dong&show_icons=true&include_all_commits=true" />
 </a>
 
-<a href="https://github.com/DQ0408">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DQ0408&hide=java,javascript,html&layout=compact&langs_count=6&exclude_repo=undergrad" />
+<a href="https://github.com/Deriq-Qian-Dong">
+  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deriq-Qian-Dong&hide=java,javascript,html&layout=compact&langs_count=6&exclude_repo=undergrad" />
 </a>
