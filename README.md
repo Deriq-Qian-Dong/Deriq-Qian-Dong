@@ -24,11 +24,3 @@ Here are some ideas to get you started:
 <a href="https://github.com/Deriq-Qian-Dong">
   <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deriq-Qian-Dong&hide=java,javascript,html&layout=compact&langs_count=6&exclude_repo=undergrad" />
 </a>
-
-<a href="https://github.com/Deriq-Qian-Dong">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Deriq-Qian-Dong&show_icons=true&include_all_commits=true" />
-</a>
-
-<a href="https://github.com/Deriq-Qian-Dong">
-  <img align="center" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deriq-Qian-Dong&hide=java,javascript,html&layout=compact&langs_count=6&exclude_repo=undergrad" />
-</a>
