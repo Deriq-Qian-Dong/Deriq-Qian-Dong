@@ -21,6 +21,8 @@ Here are some ideas to get you started:
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Deriq-Qian-Dong&count_private=true&show_icons=true" />
 </a>  
 
+<!--
 <a href="https://github.com/Deriq-Qian-Dong">
   <img align="center" alt="Top Langs" src="https://github-readme-stats-two-nu-79.vercel.app/api/top-langs/?username=Deriq-Qian-Dong&hide=java,javascript,html&layout=compact&langs_count=6&exclude_repo=undergrad" />
 </a>
+-->
