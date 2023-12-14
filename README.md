@@ -21,12 +21,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img alt="GIF" src="https://media4.giphy.com/media/L0BKzeibXgQSm8tJAi/giphy.gif?cid=ecf05e47sn6790rifn5zx1c2btrk2i7dx3n75qiouojokl9z&ep=v1_gifs_related&rid=giphy.gif&ct=g" />
+
+<img alt="GIF" src="https://media4.giphy.com/media/L0BKzeibXgQSm8tJAi/giphy.gif?cid=ecf05e47sn6790rifn5zx1c2btrk2i7dx3n75qiouojokl9z&ep=v1_gifs_related&rid=giphy.gif&ct=g" /> <a href="https://github.com/Deriq-Qian-Dong"><img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Deriq-Qian-Dong&count_private=true&show_icons=true" /></a>
 
 
-<a href="https://github.com/Deriq-Qian-Dong">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Deriq-Qian-Dong&count_private=true&show_icons=true" />
-</a>  
+
+
+
 
 <!--
 <a href="https://github.com/Deriq-Qian-Dong">
